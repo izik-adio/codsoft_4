@@ -1,3 +1,5 @@
+![Cover Image](./4.png)
+
 # Rock-Paper-Scissors Game
 
 This is a simple command-line implementation of the classic rock-paper-scissors game in Python. The game allows users to play against the computer, keeping track of scores across multiple rounds.
